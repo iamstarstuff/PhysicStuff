@@ -11,3 +11,6 @@ This serves my selfish purpose of practicing python. But it's always fun to writ
 Feel free to play around with the code and if you could make it better raise an issue I'll look into it.   
 
 Cheers!
+
+
+Note: If some notebook cannot be opened in GitHub then just copy the url and view it on https://nbviewer.jupyter.org/ 
