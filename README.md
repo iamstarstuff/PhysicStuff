@@ -2,7 +2,7 @@
 ![Screenshot](Header.png)
 Hi there,  
 
-The motivation to create this is to help visualise physics concepts using Python. Also this is a counterpart of my main blog [www.physicstuff.com](www.physicstuff.com) where I try to explain concepts.  
+The motivation to create this is to help visualise physics concepts using Python. Also this is a counterpart of my main blog www.physicstuff.com where I try to explain concepts.  
 
 Now the plan is to provide the code too for the plots I use in the blog. I'll keep updating the repo as I try new things.
 
