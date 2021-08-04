@@ -18,3 +18,5 @@ Note: If some notebook cannot be opened in GitHub then just copy the url and vie
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamstarstuff)](https://github.com/iamstarstuff/github-readme-stats)
+
