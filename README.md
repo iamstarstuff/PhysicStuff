@@ -1,5 +1,8 @@
 # PhysicStuff
 ![Screenshot](Header.png)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
+![PhysicStuff's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamstarstuff&show_icons=true&theme=synthwave&hide=contribs,prs,issues&custom_title=PhysicStuff's&nbsp;GitHub&nbps;Stats)
 Hi there,  
 
 The motivation to create this is to help visualise physics concepts using Python. Also this is a counterpart of my main blog http://physicstuff.com/ where I try to explain concepts.  
@@ -16,8 +19,6 @@ Cheers!
 
 Note: If some notebook cannot be opened in GitHub then just copy the url and view it on https://nbviewer.jupyter.org/ 
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-![PhysicStuff's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamstarstuff&show_icons=true&theme=synthwave&hide=contribs,prs,issues&custom_title=PhysicStuff's&nbsp;GitHub&nbps;Stats)
 
 
