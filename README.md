@@ -18,4 +18,4 @@ Note: If some notebook cannot be opened in GitHub then just copy the url and vie
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-![counter](https://[YourEndpoint].m.pipedream.net)
+![counter](https://[https://pipedream.com/@iamstarstuff/copy-of-github-profile-view-counter-p_n1CeDQn/edit].m.pipedream.net)
