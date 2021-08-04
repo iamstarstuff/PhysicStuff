@@ -23,6 +23,9 @@ Cheers!
 
 Note: If some notebook cannot be opened in GitHub then just copy the url and view it on https://nbviewer.jupyter.org/ 
 
+![View Count](https://komarev.com/ghpvc/?username=iamstarstuff)
+
+
 
 
 
