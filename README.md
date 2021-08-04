@@ -24,7 +24,8 @@ Cheers!
 Note: If some notebook cannot be opened in GitHub then just copy the url and view it on https://nbviewer.jupyter.org/   
 
 
-Visitor Count : ![Visitor Count](https://profile-counter.glitch.me/{iamstarstuff}/count.svg)
+Visitor Count  
+![Visitor Count](https://profile-counter.glitch.me/{iamstarstuff}/count.svg)
 
 
 
