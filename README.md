@@ -1,8 +1,12 @@
 # PhysicStuff
-![Screenshot](Header.png)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+![Screenshot](Header.png) <br>
 
-![PhysicStuff's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamstarstuff&show_icons=true&theme=synthwave&hide=contribs,prs,issues&custom_title=PhysicStuff's&nbsp;GitHub&nbps;Stats)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) <br>
+
+
+![PhysicStuff's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamstarstuff&show_icons=true&theme=synthwave&hide=contribs,prs,issues&custom_title=PhysicStuff's&nbsp;GitHub&nbps;Stats)<br>  
+
+
 Hi there,  
 
 The motivation to create this is to help visualise physics concepts using Python. Also this is a counterpart of my main blog http://physicstuff.com/ where I try to explain concepts.  
