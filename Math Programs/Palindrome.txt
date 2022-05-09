@@ -4695,7 +4695,7 @@ For seed value of 599
 1594+4951=6545
 6545+5456=12001
 12001+10021=22022
-After 4 interations we get 22022
+After 4 interation we get 22022
 
 
 
