@@ -1,0 +1,2004 @@
+For seed value of 100
+After 1 iterations we get 101 which is a 3 digit palindrome.
+
+
+
+For seed value of 101
+After 0 iterations we get 101 which is a 3 digit palindrome.
+
+
+
+For seed value of 102
+After 1 iterations we get 303 which is a 3 digit palindrome.
+
+
+
+For seed value of 103
+After 1 iterations we get 404 which is a 3 digit palindrome.
+
+
+
+For seed value of 104
+After 1 iterations we get 505 which is a 3 digit palindrome.
+
+
+
+For seed value of 105
+After 1 iterations we get 606 which is a 3 digit palindrome.
+
+
+
+For seed value of 106
+After 1 iterations we get 707 which is a 3 digit palindrome.
+
+
+
+For seed value of 107
+After 1 iterations we get 808 which is a 3 digit palindrome.
+
+
+
+For seed value of 108
+After 1 iterations we get 909 which is a 3 digit palindrome.
+
+
+
+For seed value of 109
+After 2 iterations we get 1111 which is a 4 digit palindrome.
+
+
+
+For seed value of 110
+After 1 iterations we get 121 which is a 3 digit palindrome.
+
+
+
+For seed value of 111
+After 0 iterations we get 111 which is a 3 digit palindrome.
+
+
+
+For seed value of 112
+After 1 iterations we get 323 which is a 3 digit palindrome.
+
+
+
+For seed value of 113
+After 1 iterations we get 424 which is a 3 digit palindrome.
+
+
+
+For seed value of 114
+After 1 iterations we get 525 which is a 3 digit palindrome.
+
+
+
+For seed value of 115
+After 1 iterations we get 626 which is a 3 digit palindrome.
+
+
+
+For seed value of 116
+After 1 iterations we get 727 which is a 3 digit palindrome.
+
+
+
+For seed value of 117
+After 1 iterations we get 828 which is a 3 digit palindrome.
+
+
+
+For seed value of 118
+After 1 iterations we get 929 which is a 3 digit palindrome.
+
+
+
+For seed value of 119
+After 2 iterations we get 1331 which is a 4 digit palindrome.
+
+
+
+For seed value of 120
+After 1 iterations we get 141 which is a 3 digit palindrome.
+
+
+
+For seed value of 121
+After 0 iterations we get 121 which is a 3 digit palindrome.
+
+
+
+For seed value of 122
+After 1 iterations we get 343 which is a 3 digit palindrome.
+
+
+
+For seed value of 123
+After 1 iterations we get 444 which is a 3 digit palindrome.
+
+
+
+For seed value of 124
+After 1 iterations we get 545 which is a 3 digit palindrome.
+
+
+
+For seed value of 125
+After 1 iterations we get 646 which is a 3 digit palindrome.
+
+
+
+For seed value of 126
+After 1 iterations we get 747 which is a 3 digit palindrome.
+
+
+
+For seed value of 127
+After 1 iterations we get 848 which is a 3 digit palindrome.
+
+
+
+For seed value of 128
+After 1 iterations we get 949 which is a 3 digit palindrome.
+
+
+
+For seed value of 129
+After 2 iterations we get 1551 which is a 4 digit palindrome.
+
+
+
+For seed value of 130
+After 1 iterations we get 161 which is a 3 digit palindrome.
+
+
+
+For seed value of 131
+After 0 iterations we get 131 which is a 3 digit palindrome.
+
+
+
+For seed value of 132
+After 1 iterations we get 363 which is a 3 digit palindrome.
+
+
+
+For seed value of 133
+After 1 iterations we get 464 which is a 3 digit palindrome.
+
+
+
+For seed value of 134
+After 1 iterations we get 565 which is a 3 digit palindrome.
+
+
+
+For seed value of 135
+After 1 iterations we get 666 which is a 3 digit palindrome.
+
+
+
+For seed value of 136
+After 1 iterations we get 767 which is a 3 digit palindrome.
+
+
+
+For seed value of 137
+After 1 iterations we get 868 which is a 3 digit palindrome.
+
+
+
+For seed value of 138
+After 1 iterations we get 969 which is a 3 digit palindrome.
+
+
+
+For seed value of 139
+After 2 iterations we get 1771 which is a 4 digit palindrome.
+
+
+
+For seed value of 140
+After 1 iterations we get 181 which is a 3 digit palindrome.
+
+
+
+For seed value of 141
+After 0 iterations we get 141 which is a 3 digit palindrome.
+
+
+
+For seed value of 142
+After 1 iterations we get 383 which is a 3 digit palindrome.
+
+
+
+For seed value of 143
+After 1 iterations we get 484 which is a 3 digit palindrome.
+
+
+
+For seed value of 144
+After 1 iterations we get 585 which is a 3 digit palindrome.
+
+
+
+For seed value of 145
+After 1 iterations we get 686 which is a 3 digit palindrome.
+
+
+
+For seed value of 146
+After 1 iterations we get 787 which is a 3 digit palindrome.
+
+
+
+For seed value of 147
+After 1 iterations we get 888 which is a 3 digit palindrome.
+
+
+
+For seed value of 148
+After 1 iterations we get 989 which is a 3 digit palindrome.
+
+
+
+For seed value of 149
+After 2 iterations we get 1991 which is a 4 digit palindrome.
+
+
+
+For seed value of 150
+After 2 iterations we get 303 which is a 3 digit palindrome.
+
+
+
+For seed value of 151
+After 0 iterations we get 151 which is a 3 digit palindrome.
+
+
+
+For seed value of 152
+After 2 iterations we get 707 which is a 3 digit palindrome.
+
+
+
+For seed value of 153
+After 2 iterations we get 909 which is a 3 digit palindrome.
+
+
+
+For seed value of 154
+After 2 iterations we get 1111 which is a 4 digit palindrome.
+
+
+
+For seed value of 155
+After 3 iterations we get 4444 which is a 4 digit palindrome.
+
+
+
+For seed value of 156
+After 3 iterations we get 6666 which is a 4 digit palindrome.
+
+
+
+For seed value of 157
+After 3 iterations we get 8888 which is a 4 digit palindrome.
+
+
+
+For seed value of 158
+After 3 iterations we get 11011 which is a 5 digit palindrome.
+
+
+
+For seed value of 159
+After 2 iterations we get 1221 which is a 4 digit palindrome.
+
+
+
+For seed value of 160
+After 2 iterations we get 343 which is a 3 digit palindrome.
+
+
+
+For seed value of 161
+After 0 iterations we get 161 which is a 3 digit palindrome.
+
+
+
+For seed value of 162
+After 2 iterations we get 747 which is a 3 digit palindrome.
+
+
+
+For seed value of 163
+After 2 iterations we get 949 which is a 3 digit palindrome.
+
+
+
+For seed value of 164
+After 3 iterations we get 2662 which is a 4 digit palindrome.
+
+
+
+For seed value of 165
+After 3 iterations we get 4884 which is a 4 digit palindrome.
+
+
+
+For seed value of 166
+After 5 iterations we get 45254 which is a 5 digit palindrome.
+
+
+
+For seed value of 167
+After 11 iterations we get 88555588 which is a 8 digit palindrome.
+
+
+
+For seed value of 168
+After 3 iterations we get 13431 which is a 5 digit palindrome.
+
+
+
+For seed value of 169
+After 2 iterations we get 1441 which is a 4 digit palindrome.
+
+
+
+For seed value of 170
+After 2 iterations we get 383 which is a 3 digit palindrome.
+
+
+
+For seed value of 171
+After 0 iterations we get 171 which is a 3 digit palindrome.
+
+
+
+For seed value of 172
+After 2 iterations we get 787 which is a 3 digit palindrome.
+
+
+
+For seed value of 173
+After 2 iterations we get 989 which is a 3 digit palindrome.
+
+
+
+For seed value of 174
+After 4 iterations we get 5115 which is a 4 digit palindrome.
+
+
+
+For seed value of 175
+After 4 iterations we get 9559 which is a 4 digit palindrome.
+
+
+
+For seed value of 176
+After 5 iterations we get 44044 which is a 5 digit palindrome.
+
+
+
+For seed value of 177
+After 15 iterations we get 8836886388 which is a 10 digit palindrome.
+
+
+
+For seed value of 178
+After 3 iterations we get 15851 which is a 5 digit palindrome.
+
+
+
+For seed value of 179
+After 2 iterations we get 1661 which is a 4 digit palindrome.
+
+
+
+For seed value of 180
+After 3 iterations we get 747 which is a 3 digit palindrome.
+
+
+
+For seed value of 181
+After 0 iterations we get 181 which is a 3 digit palindrome.
+
+
+
+For seed value of 182
+After 6 iterations we get 45254 which is a 5 digit palindrome.
+
+
+
+For seed value of 183
+After 4 iterations we get 13431 which is a 5 digit palindrome.
+
+
+
+For seed value of 184
+After 3 iterations we get 2552 which is a 4 digit palindrome.
+
+
+
+For seed value of 185
+After 3 iterations we get 4774 which is a 4 digit palindrome.
+
+
+
+For seed value of 186
+After 3 iterations we get 6996 which is a 4 digit palindrome.
+
+
+
+For seed value of 187
+After 23 iterations we get 8813200023188 which is a 13 digit palindrome.
+
+
+
+For seed value of 188
+After 7 iterations we get 233332 which is a 6 digit palindrome.
+
+
+
+For seed value of 189
+After 2 iterations we get 1881 which is a 4 digit palindrome.
+
+
+
+For seed value of 190
+After 7 iterations we get 45254 which is a 5 digit palindrome.
+
+
+
+For seed value of 191
+After 0 iterations we get 191 which is a 3 digit palindrome.
+
+
+
+For seed value of 192
+After 4 iterations we get 6996 which is a 4 digit palindrome.
+
+
+
+For seed value of 193
+After 8 iterations we get 233332 which is a 6 digit palindrome.
+
+
+
+For seed value of 194
+After 3 iterations we get 2992 which is a 4 digit palindrome.
+
+
+
+For seed value of 195
+After 4 iterations we get 9339 which is a 4 digit palindrome.
+
+
+
+For seed value of 196
+Palindrome doesn't exist
+After 12069 iterations we get 198665295040456587903545851388058067571595491510735451767377534389124320872423094507033117391266161002959485510348409753670315939442825876522661861493072723230467797809258840874915124769994355396643952092994201365609925106072332787074729562993956523418329679961115430000615148762805141278974533603499937467740182876611217643866957001819626597808533182103614891178726070114428106055065449559549058357747151679515816228712263249985135875904256406574112451538062935999763377962104483300543718487546468160006321421237704852464214840507138791988656374856254524413907959999467467114967078570479428959981016567177622594667198707826199505312818629434130446665031586507760714150610029817710007697308151360117294403956003356455596191638904993918143170939376063246596089125396417089995861979604308359628652781621690008872295455996444860269056973605431087961108138570829212460181542896278715054173322301964265899633904816705615949495254941349952449400591977305452740125961375790319119863155070414648070570030207264768724272094214546829660436147173550800010390410092883738690608519722661067946621199528468451828005277593952690038516424002475336647788170555279071359996929835003325392823817858940008234148362008833069794292517055529758651403000565223055484010575513925027477720505950003657976263977982659998863978676679371469428951279436453363039677498889907338801424092773114924213094505398545437418447630455642131375141777644588911741593050010009044133211635596346007808235716824714830071484262770531589831107037194151319728168097695918373724529114739425467951357391436100509989317829177059494801733176005377203171210953227175776442043276863424740588139958776265443690316473314987346013457445143285136844765488319779196846295120049563367144812140333026869619269733877371102922211369199242302885506972339172942255475490902660330169283853054352578054760218389976790446443585747857413490108146734010273382543935228623401002699816820781933582555594055642481547650691998220095558915586712069087649840255912115999153657077246440475710436256686233730725008097893022041225380092182088806948384337680295806820852052666661043098207950015368973287563157140998289798157168384882090369873140142199457565470048318818722062957384730906775428440872742301372717152075143012009276457792104805012173200221752377588356662014509955222928982796889172154705476731538091867441761898062739698477066028414431468995294856204728958456508598372029669082300110231012718578620424183773147573464983421498028735041357290078360119377902010060240043993316000911076402096477108185313064673188421348955347583047738133502577690632002311099327096702917499580465385992749166948258996413531582066066489703726079816813486818094403778449744226199859739872932166990431135576378568316713200137031941830130766566200922033167025072617420314727803591456761002758374937022681792274017455684400125103038995210117957297174199798180013076235478238095361005970179034126666625024811870750308673338374970898027129098441313132028978080161702743277665263401757305564168164735299852110956304893688096021659542094569001190029605574527424645050545539533907802851899730009342691163944428247200043775070109530485774858535453409877988480116655978516434035838297203295631909447554135916193427069568720324399097201223030008477724797291695772933214021953175445494101269164770286801398446843763169224243574432064279041337362399733367158785903098405831535977134924378746282125901326140267450066143709859396067281881299001500063319475316877352394841181553737282959569097073782305258182961202899503508826138417013752643752753181969954479443611234144991001004929525602098444587724146413214646502574492463445579350549131331952027828053409793281898790567694035344473388315971496516398766687045790006529976935278876629994960412677571152041556511038555021267499931414596792555060629240786044770027384143281003885881742829352340043991869995318088245616188864763248410053352573009725038687249973914396492490113664877006712891580599772738938990409311999805637173063516583865541139137143686647271203007507073750317956037891091319658216951114725550367029499405425894314054269395941749662940824689965255920212347056051688159825509205431281906593190115988002559636966186306735459966459217881009612608825573795380231786917959997971468451199059574245967294017133190949840884719159555375230165040339272196404181469769990782892001594250716769567622947763304242393780731261588271879690276540621687067650028895992397408578166051076387499994980920542535276738455679019784170503752147316831763321421369995286465468590634501428440136867346699963935983514421148659465231057943257905236221673262742686725163885285984605505455946159192441107052877219732631118222689780552692800076076724780221667719203686374000530632447988205249825795150609993442205998692381432564939937482857077623337950261901646410139929025945559465349897741051957814885289888785304222737930515826621577752734394051406635780484411547506920005166329272122179450131338802331198452576386725442701519558617676074088425844630968665394158265698 which is a 5001 digit number but still not a palindrome.
+
+
+
+For seed value of 197
+After 7 iterations we get 881188 which is a 6 digit palindrome.
+
+
+
+For seed value of 198
+After 5 iterations we get 79497 which is a 5 digit palindrome.
+
+
+
+For seed value of 199
+After 3 iterations we get 3113 which is a 4 digit palindrome.
+
+
+
+For seed value of 200
+After 1 iterations we get 202 which is a 3 digit palindrome.
+
+
+
+For seed value of 201
+After 1 iterations we get 303 which is a 3 digit palindrome.
+
+
+
+For seed value of 202
+After 0 iterations we get 202 which is a 3 digit palindrome.
+
+
+
+For seed value of 203
+After 1 iterations we get 505 which is a 3 digit palindrome.
+
+
+
+For seed value of 204
+After 1 iterations we get 606 which is a 3 digit palindrome.
+
+
+
+For seed value of 205
+After 1 iterations we get 707 which is a 3 digit palindrome.
+
+
+
+For seed value of 206
+After 1 iterations we get 808 which is a 3 digit palindrome.
+
+
+
+For seed value of 207
+After 1 iterations we get 909 which is a 3 digit palindrome.
+
+
+
+For seed value of 208
+After 2 iterations we get 1111 which is a 4 digit palindrome.
+
+
+
+For seed value of 209
+After 1 iterations we get 1111 which is a 4 digit palindrome.
+
+
+
+For seed value of 210
+After 1 iterations we get 222 which is a 3 digit palindrome.
+
+
+
+For seed value of 211
+After 1 iterations we get 323 which is a 3 digit palindrome.
+
+
+
+For seed value of 212
+After 0 iterations we get 212 which is a 3 digit palindrome.
+
+
+
+For seed value of 213
+After 1 iterations we get 525 which is a 3 digit palindrome.
+
+
+
+For seed value of 214
+After 1 iterations we get 626 which is a 3 digit palindrome.
+
+
+
+For seed value of 215
+After 1 iterations we get 727 which is a 3 digit palindrome.
+
+
+
+For seed value of 216
+After 1 iterations we get 828 which is a 3 digit palindrome.
+
+
+
+For seed value of 217
+After 1 iterations we get 929 which is a 3 digit palindrome.
+
+
+
+For seed value of 218
+After 2 iterations we get 1331 which is a 4 digit palindrome.
+
+
+
+For seed value of 219
+After 2 iterations we get 2442 which is a 4 digit palindrome.
+
+
+
+For seed value of 220
+After 1 iterations we get 242 which is a 3 digit palindrome.
+
+
+
+For seed value of 221
+After 1 iterations we get 343 which is a 3 digit palindrome.
+
+
+
+For seed value of 222
+After 0 iterations we get 222 which is a 3 digit palindrome.
+
+
+
+For seed value of 223
+After 1 iterations we get 545 which is a 3 digit palindrome.
+
+
+
+For seed value of 224
+After 1 iterations we get 646 which is a 3 digit palindrome.
+
+
+
+For seed value of 225
+After 1 iterations we get 747 which is a 3 digit palindrome.
+
+
+
+For seed value of 226
+After 1 iterations we get 848 which is a 3 digit palindrome.
+
+
+
+For seed value of 227
+After 1 iterations we get 949 which is a 3 digit palindrome.
+
+
+
+For seed value of 228
+After 2 iterations we get 1551 which is a 4 digit palindrome.
+
+
+
+For seed value of 229
+After 2 iterations we get 2662 which is a 4 digit palindrome.
+
+
+
+For seed value of 230
+After 1 iterations we get 262 which is a 3 digit palindrome.
+
+
+
+For seed value of 231
+After 1 iterations we get 363 which is a 3 digit palindrome.
+
+
+
+For seed value of 232
+After 0 iterations we get 232 which is a 3 digit palindrome.
+
+
+
+For seed value of 233
+After 1 iterations we get 565 which is a 3 digit palindrome.
+
+
+
+For seed value of 234
+After 1 iterations we get 666 which is a 3 digit palindrome.
+
+
+
+For seed value of 235
+After 1 iterations we get 767 which is a 3 digit palindrome.
+
+
+
+For seed value of 236
+After 1 iterations we get 868 which is a 3 digit palindrome.
+
+
+
+For seed value of 237
+After 1 iterations we get 969 which is a 3 digit palindrome.
+
+
+
+For seed value of 238
+After 2 iterations we get 1771 which is a 4 digit palindrome.
+
+
+
+For seed value of 239
+After 2 iterations we get 2882 which is a 4 digit palindrome.
+
+
+
+For seed value of 240
+After 1 iterations we get 282 which is a 3 digit palindrome.
+
+
+
+For seed value of 241
+After 1 iterations we get 383 which is a 3 digit palindrome.
+
+
+
+For seed value of 242
+After 0 iterations we get 242 which is a 3 digit palindrome.
+
+
+
+For seed value of 243
+After 1 iterations we get 585 which is a 3 digit palindrome.
+
+
+
+For seed value of 244
+After 1 iterations we get 686 which is a 3 digit palindrome.
+
+
+
+For seed value of 245
+After 1 iterations we get 787 which is a 3 digit palindrome.
+
+
+
+For seed value of 246
+After 1 iterations we get 888 which is a 3 digit palindrome.
+
+
+
+For seed value of 247
+After 1 iterations we get 989 which is a 3 digit palindrome.
+
+
+
+For seed value of 248
+After 2 iterations we get 1991 which is a 4 digit palindrome.
+
+
+
+For seed value of 249
+After 3 iterations we get 5115 which is a 4 digit palindrome.
+
+
+
+For seed value of 250
+After 2 iterations we get 505 which is a 3 digit palindrome.
+
+
+
+For seed value of 251
+After 2 iterations we get 707 which is a 3 digit palindrome.
+
+
+
+For seed value of 252
+After 0 iterations we get 252 which is a 3 digit palindrome.
+
+
+
+For seed value of 253
+After 2 iterations we get 1111 which is a 4 digit palindrome.
+
+
+
+For seed value of 254
+After 3 iterations we get 4444 which is a 4 digit palindrome.
+
+
+
+For seed value of 255
+After 3 iterations we get 6666 which is a 4 digit palindrome.
+
+
+
+For seed value of 256
+After 3 iterations we get 8888 which is a 4 digit palindrome.
+
+
+
+For seed value of 257
+After 3 iterations we get 11011 which is a 5 digit palindrome.
+
+
+
+For seed value of 258
+After 2 iterations we get 1221 which is a 4 digit palindrome.
+
+
+
+For seed value of 259
+After 2 iterations we get 2332 which is a 4 digit palindrome.
+
+
+
+For seed value of 260
+After 2 iterations we get 545 which is a 3 digit palindrome.
+
+
+
+For seed value of 261
+After 2 iterations we get 747 which is a 3 digit palindrome.
+
+
+
+For seed value of 262
+After 0 iterations we get 262 which is a 3 digit palindrome.
+
+
+
+For seed value of 263
+After 3 iterations we get 2662 which is a 4 digit palindrome.
+
+
+
+For seed value of 264
+After 3 iterations we get 4884 which is a 4 digit palindrome.
+
+
+
+For seed value of 265
+After 5 iterations we get 45254 which is a 5 digit palindrome.
+
+
+
+For seed value of 266
+After 11 iterations we get 88555588 which is a 8 digit palindrome.
+
+
+
+For seed value of 267
+After 3 iterations we get 13431 which is a 5 digit palindrome.
+
+
+
+For seed value of 268
+After 2 iterations we get 1441 which is a 4 digit palindrome.
+
+
+
+For seed value of 269
+After 2 iterations we get 2552 which is a 4 digit palindrome.
+
+
+
+For seed value of 270
+After 2 iterations we get 585 which is a 3 digit palindrome.
+
+
+
+For seed value of 271
+After 2 iterations we get 787 which is a 3 digit palindrome.
+
+
+
+For seed value of 272
+After 0 iterations we get 272 which is a 3 digit palindrome.
+
+
+
+For seed value of 273
+After 4 iterations we get 5115 which is a 4 digit palindrome.
+
+
+
+For seed value of 274
+After 4 iterations we get 9559 which is a 4 digit palindrome.
+
+
+
+For seed value of 275
+After 5 iterations we get 44044 which is a 5 digit palindrome.
+
+
+
+For seed value of 276
+After 15 iterations we get 8836886388 which is a 10 digit palindrome.
+
+
+
+For seed value of 277
+After 3 iterations we get 15851 which is a 5 digit palindrome.
+
+
+
+For seed value of 278
+After 2 iterations we get 1661 which is a 4 digit palindrome.
+
+
+
+For seed value of 279
+After 2 iterations we get 2772 which is a 4 digit palindrome.
+
+
+
+For seed value of 280
+After 4 iterations we get 2662 which is a 4 digit palindrome.
+
+
+
+For seed value of 281
+After 6 iterations we get 45254 which is a 5 digit palindrome.
+
+
+
+For seed value of 282
+After 0 iterations we get 282 which is a 3 digit palindrome.
+
+
+
+For seed value of 283
+After 3 iterations we get 2552 which is a 4 digit palindrome.
+
+
+
+For seed value of 284
+After 3 iterations we get 4774 which is a 4 digit palindrome.
+
+
+
+For seed value of 285
+After 3 iterations we get 6996 which is a 4 digit palindrome.
+
+
+
+For seed value of 286
+After 23 iterations we get 8813200023188 which is a 13 digit palindrome.
+
+
+
+For seed value of 287
+After 7 iterations we get 233332 which is a 6 digit palindrome.
+
+
+
+For seed value of 288
+After 2 iterations we get 1881 which is a 4 digit palindrome.
+
+
+
+For seed value of 289
+After 2 iterations we get 2992 which is a 4 digit palindrome.
+
+
+
+For seed value of 290
+After 4 iterations we get 2552 which is a 4 digit palindrome.
+
+
+
+For seed value of 291
+After 4 iterations we get 6996 which is a 4 digit palindrome.
+
+
+
+For seed value of 292
+After 0 iterations we get 292 which is a 3 digit palindrome.
+
+
+
+For seed value of 293
+After 3 iterations we get 2992 which is a 4 digit palindrome.
+
+
+
+For seed value of 294
+After 4 iterations we get 9339 which is a 4 digit palindrome.
+
+
+
+For seed value of 295
+Palindrome doesn't exist
+After 12069 iterations we get 198665295040456587903545851388058067571595491510735451767377534389124320872423094507033117391266161002959485510348409753670315939442825876522661861493072723230467797809258840874915124769994355396643952092994201365609925106072332787074729562993956523418329679961115430000615148762805141278974533603499937467740182876611217643866957001819626597808533182103614891178726070114428106055065449559549058357747151679515816228712263249985135875904256406574112451538062935999763377962104483300543718487546468160006321421237704852464214840507138791988656374856254524413907959999467467114967078570479428959981016567177622594667198707826199505312818629434130446665031586507760714150610029817710007697308151360117294403956003356455596191638904993918143170939376063246596089125396417089995861979604308359628652781621690008872295455996444860269056973605431087961108138570829212460181542896278715054173322301964265899633904816705615949495254941349952449400591977305452740125961375790319119863155070414648070570030207264768724272094214546829660436147173550800010390410092883738690608519722661067946621199528468451828005277593952690038516424002475336647788170555279071359996929835003325392823817858940008234148362008833069794292517055529758651403000565223055484010575513925027477720505950003657976263977982659998863978676679371469428951279436453363039677498889907338801424092773114924213094505398545437418447630455642131375141777644588911741593050010009044133211635596346007808235716824714830071484262770531589831107037194151319728168097695918373724529114739425467951357391436100509989317829177059494801733176005377203171210953227175776442043276863424740588139958776265443690316473314987346013457445143285136844765488319779196846295120049563367144812140333026869619269733877371102922211369199242302885506972339172942255475490902660330169283853054352578054760218389976790446443585747857413490108146734010273382543935228623401002699816820781933582555594055642481547650691998220095558915586712069087649840255912115999153657077246440475710436256686233730725008097893022041225380092182088806948384337680295806820852052666661043098207950015368973287563157140998289798157168384882090369873140142199457565470048318818722062957384730906775428440872742301372717152075143012009276457792104805012173200221752377588356662014509955222928982796889172154705476731538091867441761898062739698477066028414431468995294856204728958456508598372029669082300110231012718578620424183773147573464983421498028735041357290078360119377902010060240043993316000911076402096477108185313064673188421348955347583047738133502577690632002311099327096702917499580465385992749166948258996413531582066066489703726079816813486818094403778449744226199859739872932166990431135576378568316713200137031941830130766566200922033167025072617420314727803591456761002758374937022681792274017455684400125103038995210117957297174199798180013076235478238095361005970179034126666625024811870750308673338374970898027129098441313132028978080161702743277665263401757305564168164735299852110956304893688096021659542094569001190029605574527424645050545539533907802851899730009342691163944428247200043775070109530485774858535453409877988480116655978516434035838297203295631909447554135916193427069568720324399097201223030008477724797291695772933214021953175445494101269164770286801398446843763169224243574432064279041337362399733367158785903098405831535977134924378746282125901326140267450066143709859396067281881299001500063319475316877352394841181553737282959569097073782305258182961202899503508826138417013752643752753181969954479443611234144991001004929525602098444587724146413214646502574492463445579350549131331952027828053409793281898790567694035344473388315971496516398766687045790006529976935278876629994960412677571152041556511038555021267499931414596792555060629240786044770027384143281003885881742829352340043991869995318088245616188864763248410053352573009725038687249973914396492490113664877006712891580599772738938990409311999805637173063516583865541139137143686647271203007507073750317956037891091319658216951114725550367029499405425894314054269395941749662940824689965255920212347056051688159825509205431281906593190115988002559636966186306735459966459217881009612608825573795380231786917959997971468451199059574245967294017133190949840884719159555375230165040339272196404181469769990782892001594250716769567622947763304242393780731261588271879690276540621687067650028895992397408578166051076387499994980920542535276738455679019784170503752147316831763321421369995286465468590634501428440136867346699963935983514421148659465231057943257905236221673262742686725163885285984605505455946159192441107052877219732631118222689780552692800076076724780221667719203686374000530632447988205249825795150609993442205998692381432564939937482857077623337950261901646410139929025945559465349897741051957814885289888785304222737930515826621577752734394051406635780484411547506920005166329272122179450131338802331198452576386725442701519558617676074088425844630968665394158265698 which is a 5001 digit number but still not a palindrome.
+
+
+
+For seed value of 296
+After 7 iterations we get 881188 which is a 6 digit palindrome.
+
+
+
+For seed value of 297
+After 5 iterations we get 79497 which is a 5 digit palindrome.
+
+
+
+For seed value of 298
+After 3 iterations we get 3113 which is a 4 digit palindrome.
+
+
+
+For seed value of 299
+After 3 iterations we get 5335 which is a 4 digit palindrome.
+
+
+
+For seed value of 300
+After 1 iterations we get 303 which is a 3 digit palindrome.
+
+
+
+For seed value of 301
+After 1 iterations we get 404 which is a 3 digit palindrome.
+
+
+
+For seed value of 302
+After 1 iterations we get 505 which is a 3 digit palindrome.
+
+
+
+For seed value of 303
+After 0 iterations we get 303 which is a 3 digit palindrome.
+
+
+
+For seed value of 304
+After 1 iterations we get 707 which is a 3 digit palindrome.
+
+
+
+For seed value of 305
+After 1 iterations we get 808 which is a 3 digit palindrome.
+
+
+
+For seed value of 306
+After 1 iterations we get 909 which is a 3 digit palindrome.
+
+
+
+For seed value of 307
+After 2 iterations we get 1111 which is a 4 digit palindrome.
+
+
+
+For seed value of 308
+After 1 iterations we get 1111 which is a 4 digit palindrome.
+
+
+
+For seed value of 309
+After 2 iterations we get 3333 which is a 4 digit palindrome.
+
+
+
+For seed value of 310
+After 1 iterations we get 323 which is a 3 digit palindrome.
+
+
+
+For seed value of 311
+After 1 iterations we get 424 which is a 3 digit palindrome.
+
+
+
+For seed value of 312
+After 1 iterations we get 525 which is a 3 digit palindrome.
+
+
+
+For seed value of 313
+After 0 iterations we get 313 which is a 3 digit palindrome.
+
+
+
+For seed value of 314
+After 1 iterations we get 727 which is a 3 digit palindrome.
+
+
+
+For seed value of 315
+After 1 iterations we get 828 which is a 3 digit palindrome.
+
+
+
+For seed value of 316
+After 1 iterations we get 929 which is a 3 digit palindrome.
+
+
+
+For seed value of 317
+After 2 iterations we get 1331 which is a 4 digit palindrome.
+
+
+
+For seed value of 318
+After 2 iterations we get 2442 which is a 4 digit palindrome.
+
+
+
+For seed value of 319
+After 2 iterations we get 3553 which is a 4 digit palindrome.
+
+
+
+For seed value of 320
+After 1 iterations we get 343 which is a 3 digit palindrome.
+
+
+
+For seed value of 321
+After 1 iterations we get 444 which is a 3 digit palindrome.
+
+
+
+For seed value of 322
+After 1 iterations we get 545 which is a 3 digit palindrome.
+
+
+
+For seed value of 323
+After 0 iterations we get 323 which is a 3 digit palindrome.
+
+
+
+For seed value of 324
+After 1 iterations we get 747 which is a 3 digit palindrome.
+
+
+
+For seed value of 325
+After 1 iterations we get 848 which is a 3 digit palindrome.
+
+
+
+For seed value of 326
+After 1 iterations we get 949 which is a 3 digit palindrome.
+
+
+
+For seed value of 327
+After 2 iterations we get 1551 which is a 4 digit palindrome.
+
+
+
+For seed value of 328
+After 2 iterations we get 2662 which is a 4 digit palindrome.
+
+
+
+For seed value of 329
+After 2 iterations we get 3773 which is a 4 digit palindrome.
+
+
+
+For seed value of 330
+After 1 iterations we get 363 which is a 3 digit palindrome.
+
+
+
+For seed value of 331
+After 1 iterations we get 464 which is a 3 digit palindrome.
+
+
+
+For seed value of 332
+After 1 iterations we get 565 which is a 3 digit palindrome.
+
+
+
+For seed value of 333
+After 0 iterations we get 333 which is a 3 digit palindrome.
+
+
+
+For seed value of 334
+After 1 iterations we get 767 which is a 3 digit palindrome.
+
+
+
+For seed value of 335
+After 1 iterations we get 868 which is a 3 digit palindrome.
+
+
+
+For seed value of 336
+After 1 iterations we get 969 which is a 3 digit palindrome.
+
+
+
+For seed value of 337
+After 2 iterations we get 1771 which is a 4 digit palindrome.
+
+
+
+For seed value of 338
+After 2 iterations we get 2882 which is a 4 digit palindrome.
+
+
+
+For seed value of 339
+After 2 iterations we get 3993 which is a 4 digit palindrome.
+
+
+
+For seed value of 340
+After 1 iterations we get 383 which is a 3 digit palindrome.
+
+
+
+For seed value of 341
+After 1 iterations we get 484 which is a 3 digit palindrome.
+
+
+
+For seed value of 342
+After 1 iterations we get 585 which is a 3 digit palindrome.
+
+
+
+For seed value of 343
+After 0 iterations we get 343 which is a 3 digit palindrome.
+
+
+
+For seed value of 344
+After 1 iterations we get 787 which is a 3 digit palindrome.
+
+
+
+For seed value of 345
+After 1 iterations we get 888 which is a 3 digit palindrome.
+
+
+
+For seed value of 346
+After 1 iterations we get 989 which is a 3 digit palindrome.
+
+
+
+For seed value of 347
+After 2 iterations we get 1991 which is a 4 digit palindrome.
+
+
+
+For seed value of 348
+After 3 iterations we get 5115 which is a 4 digit palindrome.
+
+
+
+For seed value of 349
+After 3 iterations we get 7337 which is a 4 digit palindrome.
+
+
+
+For seed value of 350
+After 2 iterations we get 707 which is a 3 digit palindrome.
+
+
+
+For seed value of 351
+After 2 iterations we get 909 which is a 3 digit palindrome.
+
+
+
+For seed value of 352
+After 2 iterations we get 1111 which is a 4 digit palindrome.
+
+
+
+For seed value of 353
+After 0 iterations we get 353 which is a 3 digit palindrome.
+
+
+
+For seed value of 354
+After 3 iterations we get 6666 which is a 4 digit palindrome.
+
+
+
+For seed value of 355
+After 3 iterations we get 8888 which is a 4 digit palindrome.
+
+
+
+For seed value of 356
+After 3 iterations we get 11011 which is a 5 digit palindrome.
+
+
+
+For seed value of 357
+After 2 iterations we get 1221 which is a 4 digit palindrome.
+
+
+
+For seed value of 358
+After 2 iterations we get 2332 which is a 4 digit palindrome.
+
+
+
+For seed value of 359
+After 2 iterations we get 3443 which is a 4 digit palindrome.
+
+
+
+For seed value of 360
+After 2 iterations we get 747 which is a 3 digit palindrome.
+
+
+
+For seed value of 361
+After 2 iterations we get 949 which is a 3 digit palindrome.
+
+
+
+For seed value of 362
+After 3 iterations we get 2662 which is a 4 digit palindrome.
+
+
+
+For seed value of 363
+After 0 iterations we get 363 which is a 3 digit palindrome.
+
+
+
+For seed value of 364
+After 5 iterations we get 45254 which is a 5 digit palindrome.
+
+
+
+For seed value of 365
+After 11 iterations we get 88555588 which is a 8 digit palindrome.
+
+
+
+For seed value of 366
+After 3 iterations we get 13431 which is a 5 digit palindrome.
+
+
+
+For seed value of 367
+After 2 iterations we get 1441 which is a 4 digit palindrome.
+
+
+
+For seed value of 368
+After 2 iterations we get 2552 which is a 4 digit palindrome.
+
+
+
+For seed value of 369
+After 2 iterations we get 3663 which is a 4 digit palindrome.
+
+
+
+For seed value of 370
+After 2 iterations we get 787 which is a 3 digit palindrome.
+
+
+
+For seed value of 371
+After 2 iterations we get 989 which is a 3 digit palindrome.
+
+
+
+For seed value of 372
+After 4 iterations we get 5115 which is a 4 digit palindrome.
+
+
+
+For seed value of 373
+After 0 iterations we get 373 which is a 3 digit palindrome.
+
+
+
+For seed value of 374
+After 5 iterations we get 44044 which is a 5 digit palindrome.
+
+
+
+For seed value of 375
+After 15 iterations we get 8836886388 which is a 10 digit palindrome.
+
+
+
+For seed value of 376
+After 3 iterations we get 15851 which is a 5 digit palindrome.
+
+
+
+For seed value of 377
+After 2 iterations we get 1661 which is a 4 digit palindrome.
+
+
+
+For seed value of 378
+After 2 iterations we get 2772 which is a 4 digit palindrome.
+
+
+
+For seed value of 379
+After 2 iterations we get 3883 which is a 4 digit palindrome.
+
+
+
+For seed value of 380
+After 6 iterations we get 45254 which is a 5 digit palindrome.
+
+
+
+For seed value of 381
+After 4 iterations we get 13431 which is a 5 digit palindrome.
+
+
+
+For seed value of 382
+After 3 iterations we get 2552 which is a 4 digit palindrome.
+
+
+
+For seed value of 383
+After 0 iterations we get 383 which is a 3 digit palindrome.
+
+
+
+For seed value of 384
+After 3 iterations we get 6996 which is a 4 digit palindrome.
+
+
+
+For seed value of 385
+After 23 iterations we get 8813200023188 which is a 13 digit palindrome.
+
+
+
+For seed value of 386
+After 7 iterations we get 233332 which is a 6 digit palindrome.
+
+
+
+For seed value of 387
+After 2 iterations we get 1881 which is a 4 digit palindrome.
+
+
+
+For seed value of 388
+After 2 iterations we get 2992 which is a 4 digit palindrome.
+
+
+
+For seed value of 389
+After 3 iterations we get 7117 which is a 4 digit palindrome.
+
+
+
+For seed value of 390
+After 4 iterations we get 6996 which is a 4 digit palindrome.
+
+
+
+For seed value of 391
+After 8 iterations we get 233332 which is a 6 digit palindrome.
+
+
+
+For seed value of 392
+After 3 iterations we get 2992 which is a 4 digit palindrome.
+
+
+
+For seed value of 393
+After 0 iterations we get 393 which is a 3 digit palindrome.
+
+
+
+For seed value of 394
+Palindrome doesn't exist
+After 12069 iterations we get 198665295040456587903545851388058067571595491510735451767377534389124320872423094507033117391266161002959485510348409753670315939442825876522661861493072723230467797809258840874915124769994355396643952092994201365609925106072332787074729562993956523418329679961115430000615148762805141278974533603499937467740182876611217643866957001819626597808533182103614891178726070114428106055065449559549058357747151679515816228712263249985135875904256406574112451538062935999763377962104483300543718487546468160006321421237704852464214840507138791988656374856254524413907959999467467114967078570479428959981016567177622594667198707826199505312818629434130446665031586507760714150610029817710007697308151360117294403956003356455596191638904993918143170939376063246596089125396417089995861979604308359628652781621690008872295455996444860269056973605431087961108138570829212460181542896278715054173322301964265899633904816705615949495254941349952449400591977305452740125961375790319119863155070414648070570030207264768724272094214546829660436147173550800010390410092883738690608519722661067946621199528468451828005277593952690038516424002475336647788170555279071359996929835003325392823817858940008234148362008833069794292517055529758651403000565223055484010575513925027477720505950003657976263977982659998863978676679371469428951279436453363039677498889907338801424092773114924213094505398545437418447630455642131375141777644588911741593050010009044133211635596346007808235716824714830071484262770531589831107037194151319728168097695918373724529114739425467951357391436100509989317829177059494801733176005377203171210953227175776442043276863424740588139958776265443690316473314987346013457445143285136844765488319779196846295120049563367144812140333026869619269733877371102922211369199242302885506972339172942255475490902660330169283853054352578054760218389976790446443585747857413490108146734010273382543935228623401002699816820781933582555594055642481547650691998220095558915586712069087649840255912115999153657077246440475710436256686233730725008097893022041225380092182088806948384337680295806820852052666661043098207950015368973287563157140998289798157168384882090369873140142199457565470048318818722062957384730906775428440872742301372717152075143012009276457792104805012173200221752377588356662014509955222928982796889172154705476731538091867441761898062739698477066028414431468995294856204728958456508598372029669082300110231012718578620424183773147573464983421498028735041357290078360119377902010060240043993316000911076402096477108185313064673188421348955347583047738133502577690632002311099327096702917499580465385992749166948258996413531582066066489703726079816813486818094403778449744226199859739872932166990431135576378568316713200137031941830130766566200922033167025072617420314727803591456761002758374937022681792274017455684400125103038995210117957297174199798180013076235478238095361005970179034126666625024811870750308673338374970898027129098441313132028978080161702743277665263401757305564168164735299852110956304893688096021659542094569001190029605574527424645050545539533907802851899730009342691163944428247200043775070109530485774858535453409877988480116655978516434035838297203295631909447554135916193427069568720324399097201223030008477724797291695772933214021953175445494101269164770286801398446843763169224243574432064279041337362399733367158785903098405831535977134924378746282125901326140267450066143709859396067281881299001500063319475316877352394841181553737282959569097073782305258182961202899503508826138417013752643752753181969954479443611234144991001004929525602098444587724146413214646502574492463445579350549131331952027828053409793281898790567694035344473388315971496516398766687045790006529976935278876629994960412677571152041556511038555021267499931414596792555060629240786044770027384143281003885881742829352340043991869995318088245616188864763248410053352573009725038687249973914396492490113664877006712891580599772738938990409311999805637173063516583865541139137143686647271203007507073750317956037891091319658216951114725550367029499405425894314054269395941749662940824689965255920212347056051688159825509205431281906593190115988002559636966186306735459966459217881009612608825573795380231786917959997971468451199059574245967294017133190949840884719159555375230165040339272196404181469769990782892001594250716769567622947763304242393780731261588271879690276540621687067650028895992397408578166051076387499994980920542535276738455679019784170503752147316831763321421369995286465468590634501428440136867346699963935983514421148659465231057943257905236221673262742686725163885285984605505455946159192441107052877219732631118222689780552692800076076724780221667719203686374000530632447988205249825795150609993442205998692381432564939937482857077623337950261901646410139929025945559465349897741051957814885289888785304222737930515826621577752734394051406635780484411547506920005166329272122179450131338802331198452576386725442701519558617676074088425844630968665394158265698 which is a 5001 digit number but still not a palindrome.
+
+
+
+For seed value of 395
+After 7 iterations we get 881188 which is a 6 digit palindrome.
+
+
+
+For seed value of 396
+After 5 iterations we get 79497 which is a 5 digit palindrome.
+
+
+
+For seed value of 397
+After 3 iterations we get 3113 which is a 4 digit palindrome.
+
+
+
+For seed value of 398
+After 3 iterations we get 5335 which is a 4 digit palindrome.
+
+
+
+For seed value of 399
+After 3 iterations we get 7557 which is a 4 digit palindrome.
+
+
+
+For seed value of 400
+After 1 iterations we get 404 which is a 3 digit palindrome.
+
+
+
+For seed value of 401
+After 1 iterations we get 505 which is a 3 digit palindrome.
+
+
+
+For seed value of 402
+After 1 iterations we get 606 which is a 3 digit palindrome.
+
+
+
+For seed value of 403
+After 1 iterations we get 707 which is a 3 digit palindrome.
+
+
+
+For seed value of 404
+After 0 iterations we get 404 which is a 3 digit palindrome.
+
+
+
+For seed value of 405
+After 1 iterations we get 909 which is a 3 digit palindrome.
+
+
+
+For seed value of 406
+After 2 iterations we get 1111 which is a 4 digit palindrome.
+
+
+
+For seed value of 407
+After 1 iterations we get 1111 which is a 4 digit palindrome.
+
+
+
+For seed value of 408
+After 2 iterations we get 3333 which is a 4 digit palindrome.
+
+
+
+For seed value of 409
+After 2 iterations we get 4444 which is a 4 digit palindrome.
+
+
+
+For seed value of 410
+After 1 iterations we get 424 which is a 3 digit palindrome.
+
+
+
+For seed value of 411
+After 1 iterations we get 525 which is a 3 digit palindrome.
+
+
+
+For seed value of 412
+After 1 iterations we get 626 which is a 3 digit palindrome.
+
+
+
+For seed value of 413
+After 1 iterations we get 727 which is a 3 digit palindrome.
+
+
+
+For seed value of 414
+After 0 iterations we get 414 which is a 3 digit palindrome.
+
+
+
+For seed value of 415
+After 1 iterations we get 929 which is a 3 digit palindrome.
+
+
+
+For seed value of 416
+After 2 iterations we get 1331 which is a 4 digit palindrome.
+
+
+
+For seed value of 417
+After 2 iterations we get 2442 which is a 4 digit palindrome.
+
+
+
+For seed value of 418
+After 2 iterations we get 3553 which is a 4 digit palindrome.
+
+
+
+For seed value of 419
+After 2 iterations we get 4664 which is a 4 digit palindrome.
+
+
+
+For seed value of 420
+After 1 iterations we get 444 which is a 3 digit palindrome.
+
+
+
+For seed value of 421
+After 1 iterations we get 545 which is a 3 digit palindrome.
+
+
+
+For seed value of 422
+After 1 iterations we get 646 which is a 3 digit palindrome.
+
+
+
+For seed value of 423
+After 1 iterations we get 747 which is a 3 digit palindrome.
+
+
+
+For seed value of 424
+After 0 iterations we get 424 which is a 3 digit palindrome.
+
+
+
+For seed value of 425
+After 1 iterations we get 949 which is a 3 digit palindrome.
+
+
+
+For seed value of 426
+After 2 iterations we get 1551 which is a 4 digit palindrome.
+
+
+
+For seed value of 427
+After 2 iterations we get 2662 which is a 4 digit palindrome.
+
+
+
+For seed value of 428
+After 2 iterations we get 3773 which is a 4 digit palindrome.
+
+
+
+For seed value of 429
+After 2 iterations we get 4884 which is a 4 digit palindrome.
+
+
+
+For seed value of 430
+After 1 iterations we get 464 which is a 3 digit palindrome.
+
+
+
+For seed value of 431
+After 1 iterations we get 565 which is a 3 digit palindrome.
+
+
+
+For seed value of 432
+After 1 iterations we get 666 which is a 3 digit palindrome.
+
+
+
+For seed value of 433
+After 1 iterations we get 767 which is a 3 digit palindrome.
+
+
+
+For seed value of 434
+After 0 iterations we get 434 which is a 3 digit palindrome.
+
+
+
+For seed value of 435
+After 1 iterations we get 969 which is a 3 digit palindrome.
+
+
+
+For seed value of 436
+After 2 iterations we get 1771 which is a 4 digit palindrome.
+
+
+
+For seed value of 437
+After 2 iterations we get 2882 which is a 4 digit palindrome.
+
+
+
+For seed value of 438
+After 2 iterations we get 3993 which is a 4 digit palindrome.
+
+
+
+For seed value of 439
+After 3 iterations we get 9119 which is a 4 digit palindrome.
+
+
+
+For seed value of 440
+After 1 iterations we get 484 which is a 3 digit palindrome.
+
+
+
+For seed value of 441
+After 1 iterations we get 585 which is a 3 digit palindrome.
+
+
+
+For seed value of 442
+After 1 iterations we get 686 which is a 3 digit palindrome.
+
+
+
+For seed value of 443
+After 1 iterations we get 787 which is a 3 digit palindrome.
+
+
+
+For seed value of 444
+After 0 iterations we get 444 which is a 3 digit palindrome.
+
+
+
+For seed value of 445
+After 1 iterations we get 989 which is a 3 digit palindrome.
+
+
+
+For seed value of 446
+After 2 iterations we get 1991 which is a 4 digit palindrome.
+
+
+
+For seed value of 447
+After 3 iterations we get 5115 which is a 4 digit palindrome.
+
+
+
+For seed value of 448
+After 3 iterations we get 7337 which is a 4 digit palindrome.
+
+
+
+For seed value of 449
+After 3 iterations we get 9559 which is a 4 digit palindrome.
+
+
+
+For seed value of 450
+After 2 iterations we get 909 which is a 3 digit palindrome.
+
+
+
+For seed value of 451
+After 2 iterations we get 1111 which is a 4 digit palindrome.
+
+
+
+For seed value of 452
+After 3 iterations we get 4444 which is a 4 digit palindrome.
+
+
+
+For seed value of 453
+After 3 iterations we get 6666 which is a 4 digit palindrome.
+
+
+
+For seed value of 454
+After 0 iterations we get 454 which is a 3 digit palindrome.
+
+
+
+For seed value of 455
+After 3 iterations we get 11011 which is a 5 digit palindrome.
+
+
+
+For seed value of 456
+After 2 iterations we get 1221 which is a 4 digit palindrome.
+
+
+
+For seed value of 457
+After 2 iterations we get 2332 which is a 4 digit palindrome.
+
+
+
+For seed value of 458
+After 2 iterations we get 3443 which is a 4 digit palindrome.
+
+
+
+For seed value of 459
+After 2 iterations we get 4554 which is a 4 digit palindrome.
+
+
+
+For seed value of 460
+After 2 iterations we get 949 which is a 3 digit palindrome.
+
+
+
+For seed value of 461
+After 3 iterations we get 2662 which is a 4 digit palindrome.
+
+
+
+For seed value of 462
+After 3 iterations we get 4884 which is a 4 digit palindrome.
+
+
+
+For seed value of 463
+After 5 iterations we get 45254 which is a 5 digit palindrome.
+
+
+
+For seed value of 464
+After 0 iterations we get 464 which is a 3 digit palindrome.
+
+
+
+For seed value of 465
+After 3 iterations we get 13431 which is a 5 digit palindrome.
+
+
+
+For seed value of 466
+After 2 iterations we get 1441 which is a 4 digit palindrome.
+
+
+
+For seed value of 467
+After 2 iterations we get 2552 which is a 4 digit palindrome.
+
+
+
+For seed value of 468
+After 2 iterations we get 3663 which is a 4 digit palindrome.
+
+
+
+For seed value of 469
+After 2 iterations we get 4774 which is a 4 digit palindrome.
+
+
+
+For seed value of 470
+After 2 iterations we get 989 which is a 3 digit palindrome.
+
+
+
+For seed value of 471
+After 4 iterations we get 5115 which is a 4 digit palindrome.
+
+
+
+For seed value of 472
+After 4 iterations we get 9559 which is a 4 digit palindrome.
+
+
+
+For seed value of 473
+After 5 iterations we get 44044 which is a 5 digit palindrome.
+
+
+
+For seed value of 474
+After 0 iterations we get 474 which is a 3 digit palindrome.
+
+
+
+For seed value of 475
+After 3 iterations we get 15851 which is a 5 digit palindrome.
+
+
+
+For seed value of 476
+After 2 iterations we get 1661 which is a 4 digit palindrome.
+
+
+
+For seed value of 477
+After 2 iterations we get 2772 which is a 4 digit palindrome.
+
+
+
+For seed value of 478
+After 2 iterations we get 3883 which is a 4 digit palindrome.
+
+
+
+For seed value of 479
+After 2 iterations we get 4994 which is a 4 digit palindrome.
+
+
+
+For seed value of 480
+After 4 iterations we get 13431 which is a 5 digit palindrome.
+
+
+
+For seed value of 481
+After 3 iterations we get 2552 which is a 4 digit palindrome.
+
+
+
+For seed value of 482
+After 3 iterations we get 4774 which is a 4 digit palindrome.
+
+
+
+For seed value of 483
+After 3 iterations we get 6996 which is a 4 digit palindrome.
+
+
+
+For seed value of 484
+After 0 iterations we get 484 which is a 3 digit palindrome.
+
+
+
+For seed value of 485
+After 7 iterations we get 233332 which is a 6 digit palindrome.
+
+
+
+For seed value of 486
+After 2 iterations we get 1881 which is a 4 digit palindrome.
+
+
+
+For seed value of 487
+After 2 iterations we get 2992 which is a 4 digit palindrome.
+
+
+
+For seed value of 488
+After 3 iterations we get 7117 which is a 4 digit palindrome.
+
+
+
+For seed value of 489
+After 3 iterations we get 9339 which is a 4 digit palindrome.
+
+
+
+For seed value of 490
+After 8 iterations we get 233332 which is a 6 digit palindrome.
+
+
+
+For seed value of 491
+After 3 iterations we get 2992 which is a 4 digit palindrome.
+
+
+
+For seed value of 492
+After 4 iterations we get 9339 which is a 4 digit palindrome.
+
+
+
+For seed value of 493
+Palindrome doesn't exist
+After 12069 iterations we get 198665295040456587903545851388058067571595491510735451767377534389124320872423094507033117391266161002959485510348409753670315939442825876522661861493072723230467797809258840874915124769994355396643952092994201365609925106072332787074729562993956523418329679961115430000615148762805141278974533603499937467740182876611217643866957001819626597808533182103614891178726070114428106055065449559549058357747151679515816228712263249985135875904256406574112451538062935999763377962104483300543718487546468160006321421237704852464214840507138791988656374856254524413907959999467467114967078570479428959981016567177622594667198707826199505312818629434130446665031586507760714150610029817710007697308151360117294403956003356455596191638904993918143170939376063246596089125396417089995861979604308359628652781621690008872295455996444860269056973605431087961108138570829212460181542896278715054173322301964265899633904816705615949495254941349952449400591977305452740125961375790319119863155070414648070570030207264768724272094214546829660436147173550800010390410092883738690608519722661067946621199528468451828005277593952690038516424002475336647788170555279071359996929835003325392823817858940008234148362008833069794292517055529758651403000565223055484010575513925027477720505950003657976263977982659998863978676679371469428951279436453363039677498889907338801424092773114924213094505398545437418447630455642131375141777644588911741593050010009044133211635596346007808235716824714830071484262770531589831107037194151319728168097695918373724529114739425467951357391436100509989317829177059494801733176005377203171210953227175776442043276863424740588139958776265443690316473314987346013457445143285136844765488319779196846295120049563367144812140333026869619269733877371102922211369199242302885506972339172942255475490902660330169283853054352578054760218389976790446443585747857413490108146734010273382543935228623401002699816820781933582555594055642481547650691998220095558915586712069087649840255912115999153657077246440475710436256686233730725008097893022041225380092182088806948384337680295806820852052666661043098207950015368973287563157140998289798157168384882090369873140142199457565470048318818722062957384730906775428440872742301372717152075143012009276457792104805012173200221752377588356662014509955222928982796889172154705476731538091867441761898062739698477066028414431468995294856204728958456508598372029669082300110231012718578620424183773147573464983421498028735041357290078360119377902010060240043993316000911076402096477108185313064673188421348955347583047738133502577690632002311099327096702917499580465385992749166948258996413531582066066489703726079816813486818094403778449744226199859739872932166990431135576378568316713200137031941830130766566200922033167025072617420314727803591456761002758374937022681792274017455684400125103038995210117957297174199798180013076235478238095361005970179034126666625024811870750308673338374970898027129098441313132028978080161702743277665263401757305564168164735299852110956304893688096021659542094569001190029605574527424645050545539533907802851899730009342691163944428247200043775070109530485774858535453409877988480116655978516434035838297203295631909447554135916193427069568720324399097201223030008477724797291695772933214021953175445494101269164770286801398446843763169224243574432064279041337362399733367158785903098405831535977134924378746282125901326140267450066143709859396067281881299001500063319475316877352394841181553737282959569097073782305258182961202899503508826138417013752643752753181969954479443611234144991001004929525602098444587724146413214646502574492463445579350549131331952027828053409793281898790567694035344473388315971496516398766687045790006529976935278876629994960412677571152041556511038555021267499931414596792555060629240786044770027384143281003885881742829352340043991869995318088245616188864763248410053352573009725038687249973914396492490113664877006712891580599772738938990409311999805637173063516583865541139137143686647271203007507073750317956037891091319658216951114725550367029499405425894314054269395941749662940824689965255920212347056051688159825509205431281906593190115988002559636966186306735459966459217881009612608825573795380231786917959997971468451199059574245967294017133190949840884719159555375230165040339272196404181469769990782892001594250716769567622947763304242393780731261588271879690276540621687067650028895992397408578166051076387499994980920542535276738455679019784170503752147316831763321421369995286465468590634501428440136867346699963935983514421148659465231057943257905236221673262742686725163885285984605505455946159192441107052877219732631118222689780552692800076076724780221667719203686374000530632447988205249825795150609993442205998692381432564939937482857077623337950261901646410139929025945559465349897741051957814885289888785304222737930515826621577752734394051406635780484411547506920005166329272122179450131338802331198452576386725442701519558617676074088425844630968665394158265698 which is a 5001 digit number but still not a palindrome.
+
+
+
+For seed value of 494
+After 0 iterations we get 494 which is a 3 digit palindrome.
+
+
+
+For seed value of 495
+After 5 iterations we get 79497 which is a 5 digit palindrome.
+
+
+
+For seed value of 496
+After 3 iterations we get 3113 which is a 4 digit palindrome.
+
+
+
+For seed value of 497
+After 3 iterations we get 5335 which is a 4 digit palindrome.
+
+
+
+For seed value of 498
+After 3 iterations we get 7557 which is a 4 digit palindrome.
+
+
+
+For seed value of 499
+After 3 iterations we get 9779 which is a 4 digit palindrome.
+
+
+
