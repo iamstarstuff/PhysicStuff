@@ -12,7 +12,7 @@ def f1(m):
 def f2(n,phi):
     return np.sin(n*theta+phi)
 
-figmain = plt.figure(figsize=(30,30),dpi=300,constrained_layout=True)
+figmain = plt.figure(figsize=(60,60),dpi=300,constrained_layout=True)
 subfigs = figmain.subfigures(2,2)
 
 figmain.suptitle("Lissajous Figures for different phases", fontsize=50)
